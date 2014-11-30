@@ -1,0 +1,9 @@
+TF1  Flamingo to Miccosukee Casino, Hotel, and Buffet 61 miles
+TF2  Miccosukee Casino to Loxahatchee Rd 65 miles
+TF3 Scenic Oceanfront Road Detour around Loxahatchee Preserve 50 miles
+TF4 Apoee Park in West Palm Beach to Okeechobee 94 miles (270 so far)
+TF5 Roads from Okeechobee to the Van Fleet Rail Trail 128 miles, 398 total
+TF6 Van Fleet and Withlacoochee Rail Trails 95 Miles (493)
+TF7 Santos and Ocala National Forest 94 miles (587)
+TF8 Ocala National Forest to Osceola National Forest 107 miles (694)
+TF9 I-10 to Fargo GA 49 miles (743)
